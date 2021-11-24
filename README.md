@@ -1,4 +1,4 @@
-# Teaching resources for MDE (aka IDM) course at University of Rennes 1 (IL/ILa/CCN)
+# Teaching resources for MDE (aka IDM) course at University of Rennes 1 (IL/ILA)
 
 ## Short description
 
@@ -15,6 +15,7 @@ The running project will be *a morphic DSL for CSV/JSON/machine learning*.
 ## Agenda 
 
 * introduction to MDE https://people.irisa.fr/Jean-Marc.Jezequel/enseignement/IngenierieModeles.htm
+* project (presentation) -- project202122-IDM.pdf
 * domain-specific languages (DSL) -- DSL.pdf
 * external DSLs and Xtext -- DSLXtext.pdf
 * metamodeling and EMF -- ModelManagement1.pdf 
