@@ -15,9 +15,9 @@ The running project will be *a morphic DSL for CSV/JSON/machine learning*.
 ## Agenda 
 
 * introduction to MDE https://people.irisa.fr/Jean-Marc.Jezequel/enseignement/IngenierieModeles.htm
- * https://youtu.be/O5lclxb2NYw
- * https://youtu.be/Ys28znlY7os
- * https://youtu.be/ZOS0VaMWbxY
+  - https://youtu.be/O5lclxb2NYw
+  - https://youtu.be/Ys28znlY7os
+  - https://youtu.be/ZOS0VaMWbxY
 * project (presentation) -- project202122-IDM.pdf
 * domain-specific languages (DSL) -- DSL.pdf
 * external DSLs and Xtext -- DSLXtext.pdf
