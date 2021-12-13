@@ -25,6 +25,7 @@ The running project will be *a morphic DSL for CSV/JSON/machine learning*.
 * model transformation-- ModelManagement1.pdf 
 * meta-programming, annotations, advanced compositions -- ModelManagement2.pdf 
 * Xtend, a modern programming language implemented with MDE principles (Xtext included) -- ModelManagement2.pdf
+* (practical session) first compiler with Xtext (https://docs.google.com/document/d/1gnaEGB2k4pFBw8lek198cbFj-Erx6HSGWEGkS0N7qnk/edit?usp=sharing) 
 * variability modeling -- SPLVariability-light.pdf 
 * software product lines and configuration -- SPLVariability-light.pdf 
 
@@ -39,9 +40,9 @@ Project with several milestones
    * TD2: [Partiel 2016](https://github.com/acherm/teaching-MDE-MIAGE1718/blob/master/ExamIDM16.pdf) 
 * 6 TPs
   * TP1+TP2: design of DSL and first steps with Xtext https://docs.google.com/document/d/1J82lTuMXxB-ns2Z9mLvdq4Lpe56Dc-FkzMQZf1JeYNA/edit?usp=sharing  
-  * TP3+4: model transformation, let's write our first compiler 
-  * TP5: model transformation, compilers and execution, automated testing
-  * TP5/TP6/projet: TP* (putting all together + benchmarking) 
+  * TP: model transformation, let's write our first compiler https://docs.google.com/document/d/1gnaEGB2k4pFBw8lek198cbFj-Erx6HSGWEGkS0N7qnk/edit?usp=sharing
+  * TP: model transformation, compilers and execution, automated testing
+  * TP* (putting all together + benchmarking) 
 
 
 ## Exercices/Homework 
