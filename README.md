@@ -41,8 +41,7 @@ Project with several milestones
 * 6 TPs
   * TP1+TP2: design of DSL and first steps with Xtext https://docs.google.com/document/d/1J82lTuMXxB-ns2Z9mLvdq4Lpe56Dc-FkzMQZf1JeYNA/edit?usp=sharing  
   * TP: model transformation, let's write our first compiler https://docs.google.com/document/d/1gnaEGB2k4pFBw8lek198cbFj-Erx6HSGWEGkS0N7qnk/edit?usp=sharing
-  * TP: model transformation, compilers and execution, automated testing
-  * TP* (putting all together + benchmarking) 
+  * TP: model transformation, compilers and execution, automated testing, putting all together + benchmarking https://docs.google.com/document/d/1a3dRBzTE8htiUONnYaOJsQRgYcsOjejuV2f4qxTd-58/edit?usp=sharing
 
 
 ## Exercices/Homework 
